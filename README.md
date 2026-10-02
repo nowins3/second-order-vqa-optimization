@@ -2,7 +2,7 @@
 
 **Iterative Preconditioned Gradient Descent (IPG) and Limited-Memory BFGS (L-BFGS) for variational state preparation, validated on IBM quantum hardware.**
 
-Author: [Takudzwa Chitsa](https://github.com/nowins3), NYU Abu Dhabi
+Author: [Takudzwa Chitsa](https://github.com/nowins3), World Science Scholars
 
 ---
 
